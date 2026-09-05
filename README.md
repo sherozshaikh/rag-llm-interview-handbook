@@ -22,7 +22,7 @@ I created this with the help of GenAI as a learning resource and used it while p
 * Cost & Latency
 * Model Selection & Routing
 * System Design
-* Staff+ Interview Concepts
+* Interview Concepts
 * Production RAG Challenges & Incidents
 
 ## PDF
